@@ -1,5 +1,5 @@
 {
-  "name": "jenkinstests",
+  "name": "WebPack_Mocha_ES6_Boilerplate",
   "version": "1.0.0",
   "description": "Ignore me",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meue/jenkinsTests.git"
+    "url": "git+https://github.com/meue/WebPack_Mocha_ES6_Boilerplate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/meue/jenkinsTests/issues"
+    "url": "https://github.com/meue/WebPack_Mocha_ES6_Boilerplate/issues"
   },
-  "homepage": "https://github.com/meue/jenkinsTests#readme",
+  "homepage": "https://github.com/meue/WebPack_Mocha_ES6_Boilerplate#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-preset-es2015": "^6.24.1",
